@@ -1,10 +1,13 @@
 <img width="387" height="105" alt="icon-logo" src="https://github.com/user-attachments/assets/3153f14a-e5ab-485d-bdfa-4f2154b23872" />
+
 PNDbotics is committed to building an efficient, end-to-end  humanoid robot platform that streamlines the development, simulation, and deployment processes of AI robots, and further drives breakthroughs in robotics and embodied AI.
 As a full-stack developer and manufacturer of humanoid robots, We possess well-developed robotic technologies fused with artificial intelligence technology. The technologies we adopt are shown below:
-• Model-Based Robot Gait Planning
-• Whole-Body Motion Control Technology
-• Embodied Intelligence Algorithms
-• Deep Reinforcement Learning (DRL)-based motion control technology
+
+- Model-Based Robot Gait Planning
+- Whole-Body Motion Control Technology
+- Embodied Intelligence Algorithms
+- Deep Reinforcement Learning (DRL)-based motion control technology
+
 [![Twitter](https://img.shields.io/badge/Twitter-@PNDbotics-1DA1F2?logo=twitter&logoColor=white)](https://x.com/PNDbotics)
 [![YouTube](https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@PNDbotics)
 [![Bilibili](https://img.shields.io/badge/-bilibili-ff69b4?style=flat&labelColor=ff69b4&logo=bilibili&logoColor=white)](https://space.bilibili.com/303744535)
