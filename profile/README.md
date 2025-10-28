@@ -1,4 +1,5 @@
-<img width="387" height="105" alt="icon-logo" src="https://github.com/user-attachments/assets/3153f14a-e5ab-485d-bdfa-4f2154b23872" />
+
+<img width="2076" height="353" alt="A-原图" src="https://github.com/user-attachments/assets/543770f6-9a12-4938-955e-13dbfc08d09f" />
 
 PNDbotics is committed to building an efficient, end-to-end  humanoid robot platform that streamlines the development, simulation, and deployment processes of AI robots, and further drives breakthroughs in robotics and embodied AI.
 As a full-stack developer and manufacturer of humanoid robots, We possess well-developed robotic technologies fused with artificial intelligence technology. The technologies we adopt are shown below:
