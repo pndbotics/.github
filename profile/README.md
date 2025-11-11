@@ -27,7 +27,7 @@ As a full-stack developer and manufacturer of humanoid robots, We possess well-d
     </tr>
     <tr>
           <td align="center" > <a href="https://github.com/pndbotics/pnd_adam_u_deploy">pnd_adam_u_deploy</a></td>
-        <td>ROS2 deployment package for Adam-U control. Provides real-time joint command and state communication for motion retargeting applications, supporting both hand-included and handless configurations of the ADdam-U.<br></a></td>
+        <td>ROS2 deployment package for Adam-U control. Provides real-time joint command and state communication for motion retargeting applications, supporting both hand-included and handless configurations of the Adam-U.<br></a></td>
     </tr>
     <tr>
          <td align="center" > <a href="https://github.com/pndbotics/pnd_adam_ros2_publish">pnd_adam_ros2_publish</a></td>
